@@ -1,4 +1,4 @@
-# demo-2025-goto  
+# demo-2025  
 modul1-25_v2 и modul1-25_v3 - гайд очень коротки и не понятные  
 modul1-2 - Это наш гайд, очень подробный и много скриншотов  
 1 - https://github.com/Nihtg/demo-2025-goto/raw/refs/heads/main/Modul1-25_v2.docx  
